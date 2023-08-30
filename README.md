@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=zhiao777774)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zhiao777774)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **zhiao777774/zhiao777774** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
